@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "dark-theme-custom" extension will be documented in this file.
+###improved the theme 🎆🎉
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [released]
 
 - Initial release
+version 1.0

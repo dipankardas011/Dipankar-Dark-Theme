@@ -1,13 +1,15 @@
-# README
+# Dipankar-Dark Theme
 ## This is the README for your extension "dark-theme-custom"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Screenshot
+Screenshot of C/C++
+![alt text](https://github.com/dipsonu10/dark-theme-custom/blob/main/image_preview.png?raw=true)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
+🎉✨
 ### For more information
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+# Change log
+ [github link](https://github.com/dipsonu10/dark-theme-custom/blob/main/CHANGELOG.md)
 
 **Enjoy!**
