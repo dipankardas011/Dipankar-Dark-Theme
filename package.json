@@ -1,0 +1,21 @@
+{
+    "name": "dark-theme-custom",
+    "displayName": "Dipu's theme",
+    "description": "dark theme all",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DD Dark theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DD Dark theme-color-theme.json"
+            }
+        ]
+    }
+}
