@@ -82,7 +82,7 @@
 		"tab.activeBackground": "#383E4A",
 		"tab.border": "#181A1F",
 		"tab.inactiveBackground": "#21252B",
-		"terminal.foreground": "#ffd375",
+		"terminal.foreground": "#ffffff",
 		"terminal.ansiBlack": "#2d3139",
 		"terminal.ansiBlue": "#528bff",
 		"terminal.ansiGreen": "#98c379",
