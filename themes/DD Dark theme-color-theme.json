@@ -18,7 +18,7 @@
 		"dropdown.background": "#1d1f23",
 		"dropdown.foreground": "#ffd375",
 		"dropdown.border": "#181A1F",
-		"editor.background": "#282c34",
+		"editor.background": "#1d2025",
 		"editor.findMatchBackground": "#42557B",
 		"editor.findMatchHighlightBackground": "#314365",
 		"editor.lineHighlightBackground": "#3e44516e",
@@ -113,7 +113,8 @@
 				"string.comment"
 			],
 			"settings": {
-				"foreground": "#676f7d"
+				"foreground": "#676f7d",
+				"fontStyle": "italic"
 			}
 		},
 		{

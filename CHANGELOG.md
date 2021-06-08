@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [released]
 
+### Relase 1.2
+* added italics in the comment if you are using the Font that supports like Cascadia Code
+* changed the editor.background to more black for easy 📖
+
 ### Release 1.1
 - added colour to the title bar, terminal, textbox
 
