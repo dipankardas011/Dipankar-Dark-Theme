@@ -5,7 +5,8 @@
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [released]
-
+### Relase 2.1
+* improved the UI colors
 ### Relase 1.2
 * added italics in the comment if you are using the Font that supports like Cascadia Code
 * changed the editor.background to more black for easy 📖
