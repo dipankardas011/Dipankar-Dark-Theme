@@ -5,6 +5,9 @@
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [released]
+
+### [Major_Changes]
+* imporved Dark mode and many more..🕶
 ### Relase 2.1
 * improved the UI colors
 ### Relase 1.2
