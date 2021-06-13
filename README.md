@@ -1,4 +1,6 @@
-# Dipankar-Dark Theme
+# Dipankar-Dark Theme 
+![](https://raw.githubusercontent.com/dipsonu10/dark-theme-custom/main/Icon.jpg)
+
 by `[Dipankar Das]`
 
 ### Screenshot
