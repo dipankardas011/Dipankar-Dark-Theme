@@ -17,6 +17,7 @@
         "dark theme",
         "Dipankar-Dark Theme"
     ],
+    "icon": "https://raw.githubusercontent.com/dipsonu10/dark-theme-custom/main/Icon.jpg?raw=true",
     "engines": {
         "vscode": "^1.55.0"
     },
