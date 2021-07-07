@@ -2,10 +2,10 @@
     "name": "dark-theme-custom",
     "displayName": "Dipankar-Dark Theme",
     "description": "dark theme all",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "publisher": "DipankarDas",
     "bugs": {
-        "url":"https://github.com/dipsonu10/dark-theme-custom/issues"
+        "url": "https://github.com/dipsonu10/dark-theme-custom/issues"
     },
     "repository": {
         "type": "git",
