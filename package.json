@@ -4,6 +4,9 @@
     "description": "dark theme all",
     "version": "1.0.0",
     "publisher": "DipankarDas",
+    "bugs": {
+        "url":"https://github.com/dipsonu10/dark-theme-custom/issues"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/dipsonu10/dark-theme-custom"
@@ -15,9 +18,10 @@
         "dipankar",
         "dipankar theme",
         "dark theme",
+        "justBlack",
         "Dipankar-Dark Theme"
     ],
-    "icon": "https://raw.githubusercontent.com/dipsonu10/dark-theme-custom/main/Icon.jpg?raw=true",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.55.0"
     },
