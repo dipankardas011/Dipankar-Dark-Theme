@@ -6,16 +6,28 @@ By `Dipankar Das`
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
+### GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dipsonu10&show_icons=true)
+
+
+
+## Profile View Counter
+<img src="https://komarev.com/ghpvc/?username=dipsonu10"/>
+
 ### SCREENSHOT
-Screenshot of C/C++
-![alt text](https://github.com/dipsonu10/dark-theme-custom/blob/main/image_preview.png?raw=true)
+![alt text](https://github.com/dipsonu10/dark-theme-custom/blob/main/image2.png?raw=true)
+
 
 🎉✨
 
 ## CHANGELOG
 [**github link**](https://github.com/dipsonu10/dark-theme-custom/blob/main/CHANGELOG.md)
 
-## Contributors
-[![Contributors](https://opencollective.com/dipsonu10/contributors.svg?width=890)](https://github.com/dipsonu10/dark-theme-custom/graphs/contributors)
+### Contributors Badge
+<a href="https://github.com/dipsonu10/dark-theme-custom/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=dipsonu10/dark-theme-custom" />
+</a>
+Made with [contributors-img](https://contrib.rocks).
 
 **Enjoy!**
