@@ -1,6 +1,4 @@
 # Dipankar-Dark Theme 
-![](https://raw.githubusercontent.com/dipsonu10/dark-theme-custom/main/icon.png)
-
 By `Dipankar Das`
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
