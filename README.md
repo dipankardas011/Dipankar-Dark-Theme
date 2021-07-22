@@ -1,14 +1,14 @@
 # Dipankar-Dark Theme 
 By `Dipankar Das`
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/dipsonu10/dark-theme-custom)
+
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 <hr>
 
 ### SCREENSHOT
-![alt text](https://github.com/dipsonu10/dark-theme-custom/blob/main/image2.png?raw=true)
+![alt text](image2.png)
 
 
 🎉✨
