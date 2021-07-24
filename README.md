@@ -10,7 +10,6 @@ By `Dipankar Das`
 ### SCREENSHOT
 ![alt text](image2.png)
 
-
 🎉✨
 
 To turn on Font Ligatures
