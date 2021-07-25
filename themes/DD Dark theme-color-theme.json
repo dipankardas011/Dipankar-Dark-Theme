@@ -5,8 +5,8 @@
 		"textLink.foreground": "#fce566",
 		"editorHint.foreground": "#948ae3",
         "editorHint.border": "#222222",
-		"menubar.selectionForeground": "#ebb25d",
-		"tab.activeBorder": "#ebb25d",
+		"menubar.selectionForeground": "#ffd375",
+		"tab.activeBorder": "#ffd375",
 		"settings.textInputForeground": "#ffd375",
 		"activityBar.background": "#1b1d1c",
 		"activityBar.foreground": "#cececa",
@@ -74,9 +74,9 @@
 		"list.inactiveSelectionBackground": "#2c313a",
 		"list.inactiveSelectionForeground": "#d7dae0",
 		"menu.background": "#1b1818",
-		"menu.foreground": "#8f8f8e",
-		"menu.selectionForeground": "#ebb25d",
-		"checkbox.foreground": "#ffd87e",
+		"menu.foreground": "#a7a7a4",
+		"menu.selectionForeground": "#ebd65d",
+		"checkbox.foreground": "#ffe097",
 		"minimap.background": "#1a1919",
 		"settings.textInputBorder": "#ffd87e",
 		"minimap.errorHighlight": "#ff0000",
@@ -86,7 +86,7 @@
 		"scrollbarSlider.hoverBackground": "#5A637580",
 		"sideBar.background": "#1c1c1d",
 		"sideBarSectionHeader.background": "#282c34",
-		"statusBar.background": "#020e29af",
+		"statusBar.background": "#03102ebd",
 		"statusBar.foreground": "#ddd9d9",
 		"statusBarItem.remoteForeground": "#7bd88f",
         "statusBarItem.remoteBackground": "#191919",
@@ -132,7 +132,6 @@
 				"foreground": "#616161",
 			}
 		},
-
 		{
             "scope": "markup.underline.link",
             "settings": {
@@ -140,7 +139,6 @@
                 "foreground": "#7bd88f"
             }
         },
-
 		{
             "scope": [
                 "meta.brace.round",
@@ -162,13 +160,6 @@
                 "foreground": "#8b888f"
             }
         },
-
-
-
-
-
-
-
 		{
 			"name": "String",
 			"scope": [
@@ -281,7 +272,7 @@
 				"support.class"
 			],
 			"settings": {
-				"fontStyle": "italic underline",
+				"fontStyle": "italic",
 				"foreground": "#64d2e0"
 			}
 		},
@@ -309,7 +300,7 @@
 				"variable.other.block"
 			],
 			"settings": {
-				"foreground": "#e2e2e2"
+				"foreground": "#f4f6f7"
 			}
 		},
 		{
