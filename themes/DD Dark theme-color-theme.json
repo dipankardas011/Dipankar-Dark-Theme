@@ -289,7 +289,7 @@
 				"variable.readwrite.other.block"
 			],
 			"settings": {
-				"foreground": "#f4f6f7"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -300,7 +300,7 @@
 				"variable.other.block"
 			],
 			"settings": {
-				"foreground": "#f4f6f7"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -348,7 +348,7 @@
 			"name": "Function call",
 			"scope": "entity.name.function-call",
 			"settings": {
-				"foreground": "#abb2bf"
+				"foreground": "#f8f8f8"
 			}
 		},
 		{
@@ -421,7 +421,7 @@
 				"support.type.property-name.sass"
 			],
 			"settings": {
-				"foreground": "#abb2bf"
+				"foreground": "#ffffff"
 			}
 		},
 		{
