@@ -37,7 +37,7 @@
                 "path": "./themes/DD Dark theme-color-theme.json"
             },
             {
-                "label": "DD Light theme",
+                "label": "DD Light theme(preview)",
                 "uiTheme": "vs",
                 "path": "./themes/DD Light theme-color-theme.json"
             }

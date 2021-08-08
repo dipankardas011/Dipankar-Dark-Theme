@@ -1,4 +1,9 @@
 # CHANGELOG
+
+## Major Release
+### Added the Light theme and minor dark theme improvement
+
+
 ## Ver 0.4.1 | 07-07-2021
 ### improved the theme 🎆🎉
 
