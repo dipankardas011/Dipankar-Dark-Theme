@@ -1,7 +1,7 @@
 {
     "name": "dark-theme-custom",
-    "displayName": "Dipankar-Dark Theme",
-    "description": "dark theme all",
+    "displayName": "Dipankar-Light-Dark Theme",
+    "description": "Light-Dark Theme for VSCode",
     "version": "2.5.0",
     "publisher": "DipankarDas",
     "bugs": {
@@ -19,7 +19,8 @@
         "dipankar theme",
         "dark theme",
         "justBlack",
-        "Dipankar-Dark Theme"
+        "light",
+        "Dipankar-Light-Dark Theme"
     ],
     "icon": "icon.png",
     "engines": {
@@ -34,6 +35,11 @@
                 "label": "DD Dark theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/DD Dark theme-color-theme.json"
+            },
+            {
+                "label": "DD Light theme(preview)",
+                "uiTheme": "vs",
+                "path": "./themes/DD Light theme-color-theme.json"
             }
         ]
     }

@@ -1,4 +1,4 @@
-# Dipankar-Dark Theme 
+# Dipankar-Light-Dark Theme
 By `Dipankar Das`
 
 
@@ -7,8 +7,14 @@ By `Dipankar Das`
 
 <hr>
 
-### SCREENSHOT
+## SCREENSHOT
+### Dark Theme
 ![alt text](image2.png)
+
+<br>
+
+### Light Theme 🆕!!
+![alt text](image1.png)
 
 🎉✨
 
