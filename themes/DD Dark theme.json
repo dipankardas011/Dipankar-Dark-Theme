@@ -2,7 +2,7 @@
 	"name": "DD Dark theme",
 	"type": "dark",
 	"colors": {
-		"progressBar.background": "#4ae887",
+		"progressBar.background": "#dfac40",
 		"textLink.foreground": "#fce566",
 		"foreground": "#f7f7f7",
 		"editorHint.foreground": "#948ae3",
