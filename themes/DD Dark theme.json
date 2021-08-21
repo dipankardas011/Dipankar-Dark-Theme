@@ -2,7 +2,7 @@
 	"name": "DD Dark theme",
 	"type": "dark",
 	"colors": {
-		
+		"progressBar.background": "#4ae887",
 		"textLink.foreground": "#fce566",
 		"foreground": "#f7f7f7",
 		"editorHint.foreground": "#948ae3",
@@ -14,7 +14,8 @@
 		"activityBar.foreground": "#cececa",
 		"activityBarBadge.background": "#528bff",
 		"activityBarBadge.foreground": "#F8FAFD",
-		"button.background": "#ee9c22",
+		"button.background": "#dfac40",
+		"button.foreground": "#ffffff",
 		"breadcrumb.activeSelectionForeground": "#4e4c47",
 		"breadcrumb.background": "#292727",
 		"breadcrumb.focusForeground": "#ffffff",
@@ -22,7 +23,7 @@
 		"breadcrumbPicker.background": "#3F3F3F",
 		"diffEditor.insertedTextBackground": "#00809B33",
 		"dropdown.background": "#1d1f23da",
-		"dropdown.foreground": "#6b2f2f",
+		"dropdown.foreground": "#ffd375",
 		"dropdown.border": "#181A1F",
 		"editor.background": "#222222",
 		"editor.findMatchBackground": "#42557B",
@@ -112,7 +113,7 @@
 		"terminal.ansiBrightGreen": "#98c379",
 		"terminal.ansiBrightYellow": "#e5c07b",
 		"terminal.ansiBrightCyan": "#56b6c2",
-		"terminal.ansiBrightMagenta": "#7e0097",
+		"terminal.ansiBrightMagenta": "#e5c07b",
 		"terminal.ansiBrightRed": "#f44747",
 		"terminal.ansiBrightWhite": "#d7dae0",
 		"titleBar.activeBackground": "#2f2f30",
@@ -120,7 +121,7 @@
 		"titleBar.inactiveBackground": "#282C34",
 		"titleBar.inactiveForeground": "#6B717D",
 		"terminalCursor.foreground": "#ebb25d",
-		"widget.shadow": "#3F3F3F30",
+		"widget.shadow": "#3F3F3F30"
 	},
 	"tokenColors": [
 		{
@@ -131,7 +132,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#7b787e",
+				"foreground": "#7b787e"
 			}
 		},
 		{
@@ -203,7 +204,7 @@
 				"punctuation.accessor",
 				"meta.brace"
 			],
-			"settings": { //edited
+			"settings": { 
 				"foreground": "#ffffff"
 			}
 		},
