@@ -13,7 +13,7 @@ By `Dipankar Das`
 
 <br>
 
-### Light Theme 🆕!!
+### Light Theme
 ![alt text](image1.png)
 
 🎉✨
