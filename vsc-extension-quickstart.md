@@ -4,7 +4,8 @@
 
 * This folder contains all of the files necessary for your color theme extension.
 * `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/DD Dark theme-color-theme.json` - the color theme definition file.
+* `themes/DD Dark theme.json` - the dark color theme
+* `themes/DD Light theme.json` - the light colour theme
 
 ## Get up and running straight away
 

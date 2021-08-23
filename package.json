@@ -1,6 +1,6 @@
 {
     "name": "dark-theme-custom",
-    "displayName": "Dipankar-Light-Dark Theme",
+    "displayName": "DD-Light-Dark Theme",
     "description": "Light-Dark Theme for VSCode",
     "version": "3.3.0",
     "publisher": "DipankarDas",
@@ -20,6 +20,7 @@
         "dark theme",
         "justBlack",
         "light",
+        "DD",
         "Dipankar-Light-Dark Theme"
     ],
     "icon": "icon.png",

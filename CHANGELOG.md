@@ -1,20 +1,23 @@
 # CHANGELOG
 
-## Major Release
+
+## Ver 3.5.0
+### Improved the Light Theme
+## Ver 3.4
 ### Added the Light theme and minor dark theme improvement
 
 
-## Ver 0.4.1 | 07-07-2021
+## Ver 2.4.1
 ### improved the theme 🎆🎉
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [released]
-### Release 0.4.1
+### Release 1.4.1
 * improved the Dark mode 
 ### [Major_Changes]
 * imporved Dark mode and many more..🕶
-### Release 0.4
+### Release 1.4
 * improved the UI colors
 ### Release 0.3.1
 * added italics in the comment if you are using the Font that supports like Cascadia Code

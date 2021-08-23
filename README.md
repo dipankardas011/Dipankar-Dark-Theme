@@ -1,20 +1,24 @@
-# Dipankar-Light-Dark Theme
+# DD-Light-Dark Theme
 By `Dipankar Das`
 
-❤ `Happy coding`
-
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+![cover Page](CoverPage.png)
 
 <hr>
 
-## SCREENSHOT
-### Dark Theme
-![alt text](image2.png)
+
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
+
+
+# SCREENSHOT
+## Dark Theme
+![alt text](dark.png)
 
 <br>
 
-### Light Theme
-![alt text](image1.png)
+## Light Theme
+![alt text](light.png)
 
 🎉✨
 
@@ -57,10 +61,10 @@ This will allow me or any contributor to easily add/suggest new theme variants o
 </a>
 Made with [contributors-img](https://contrib.rocks).
 
-Happy coding
+❤ `Happy coding`
 
 ## Credits
 
-This theme was inspired by the themes [VS Dark](https://github.com/Microsoft/vscode/tree/master/extensions/theme-defaults/themes), [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode), [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax), [Dracula](https://draculatheme.com/visual-studio-code/)
+This theme was inspired by the themes [VS Dark](https://github.com/Microsoft/vscode/tree/master/extensions/theme-defaults/themes), [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode), [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax)
 
 **Enjoy!**
