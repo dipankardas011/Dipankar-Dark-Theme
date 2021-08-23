@@ -4,8 +4,8 @@
 ## Ver 3.5.0
 ### Improved the Light Theme
 ## Ver 3.4
-### Added the Light theme and minor dark theme improvement
-
+- Added the Light theme and minor dark theme improvement
+- changed the colours for the git modified, added.
 
 ## Ver 2.4.1
 ### improved the theme 🎆🎉
