@@ -23,14 +23,21 @@ By `Dipankar Das`
 🎉✨
 
 To turn on Font Ligatures
-1. go to the settings.json
-2. paste this line to the file
+Ctrl + Shift + P => Settings.json
+ans Paste this
 
 some of the suggest `settings.json`
-```
+```json
 "editor.fontLigatures": "true",
 "editor.fontSize": 15,
 "editor.fontFamily": "Cascadia Code",
+```
+
+To get the bracketPairColorization 
+Ctrl + Shift + P => Settings.json
+ans Paste this
+```json
+"editor.bracketPairColorization.enabled": true,
 ```
 
 <hr>

@@ -35,12 +35,12 @@
             {
                 "label": "DD Dark theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/DD Dark theme.json"
+                "path": "./themes/DD Dark theme-color-theme.json"
             },
             {
                 "label": "DD Light theme",
                 "uiTheme": "vs",
-                "path": "./themes/DD Light theme.json"
+                "path": "./themes/DD Light theme-color-theme.json"
             }
         ]
     }
