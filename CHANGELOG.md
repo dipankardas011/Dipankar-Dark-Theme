@@ -1,6 +1,9 @@
 # CHANGELOG
 
 
+## Ver 3.5.1
+### Improved the colour scheme for terminal
+
 ## Ver 3.5.0
 ### Improved the Light Theme
 ## Ver 3.4
