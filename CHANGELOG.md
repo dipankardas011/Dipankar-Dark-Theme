@@ -1,5 +1,7 @@
 # CHANGELOG
 
+## Ver 3.6.1
+### Changed the icon and added contributing rules
 
 ## Ver 3.5.1
 ### Improved the colour scheme for terminal
