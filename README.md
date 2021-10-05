@@ -51,9 +51,8 @@ To apply clicking on Ctrl + K + T on Windows or ⇧ + K + T on Mac and then appl
 ## How to contribute
 
 This will allow me or any contributor to easily add/suggest new theme variants or changes to the existing ones. In `./themes/` folder you will find:
+    see the `./CONTRIBUTION.md` file
 
--  `DD Dark theme.json` : syntax tokens based on the language grammar installed
--  `DD Light theme.json` : the colors used for syntax highlighting
 
 ## CHANGELOG
 [**github link**](https://github.com/dipsonu10/dark-theme-custom/blob/main/CHANGELOG.md)
