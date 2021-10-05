@@ -1,6 +1,5 @@
 # Contribution Guidlines
 
-[Note] - If the branch name 'ImproveLightTheme' not present wait till it is made
 
 The themes are:
 -  `DD Dark theme.json` 

@@ -1,14 +1,12 @@
 # DD-Light-Dark Theme
+
 By `Dipankar Das`
 
 ![cover Page](CoverPage.png)
 
 <hr>
 
-
-
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-
 
 
 # SCREENSHOT
