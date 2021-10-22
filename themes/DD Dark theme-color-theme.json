@@ -398,7 +398,7 @@
 			"name": "Tag Attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#7bd88f"
 			}
 		},
 		{
@@ -462,7 +462,7 @@
 				"support.constant.sass"
 			],
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#7bd88f"
 			}
 		},
 		{
@@ -571,7 +571,7 @@
 			"name": "diff.inserted",
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#7bd88f"
 			}
 		},
 		{
@@ -644,7 +644,7 @@
 			"name": "Markup: Quote",
 			"scope": "markup.quote.markdown",
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#7bd88f"
 			}
 		},
 		{
