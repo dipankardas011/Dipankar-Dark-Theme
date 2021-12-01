@@ -22,20 +22,17 @@ The themes are:
 
 - Step 4: then create your own branch
     ```BASH
-    git branch <Your branch name>
-    git checkout <Your branch name>
+    git checkout -b <Your branch name>
     ```
 
-- Step 5: go to the "../themes/DD Light theme-color-theme.json" file location and make changes to it
-
-- Step 6: When completed; push it to your folked repository
+- Step 5: When completed; push it to your folked repository
     ```Bash
     git push origin <Your branch name>
     ```
 
-- Step 7: create the pull request
+- Step 6: create the pull request
 
-    > **the pull request must be made to the branch name 'ImproveLightTheme' not the 'main'**
+    > **the pull request**
 
 
 
