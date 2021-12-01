@@ -41,6 +41,11 @@
                 "label": "DD Light theme",
                 "uiTheme": "vs",
                 "path": "./themes/DD Light theme-color-theme.json"
+            },
+            {
+                "label": "DD Dark Vibrant theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DD Dark vibrant theme-color-theme.json"
             }
         ]
     }
