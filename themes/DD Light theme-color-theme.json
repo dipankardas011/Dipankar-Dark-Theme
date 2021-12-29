@@ -62,7 +62,7 @@
 		"editorCursor.background": "#e7e6e5",
 		"editorCursor.foreground": "#4879fd",
 		"editor.selectionBackground": "#7eb5e280",
-		"editor.selectionHighlightBackground": "#dddcdb80",
+		"editor.selectionHighlightBackground": "#b4b4b380",
 		"editor.wordHighlightBackground": "#c3dff980",
 		"editor.wordHighlightStrongBackground": "#c3cff980",
 		"editor.findMatchBackground": "#c3f9f680",
@@ -219,7 +219,7 @@
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#15b2c7"
+				"foreground": "#0e9bad"
 			}
 		},
 		{
@@ -229,7 +229,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#12bbd1"
+				"foreground": "#0e9bad"
 			}
 		},
 		{
@@ -270,7 +270,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#0db9cf"
+				"foreground": "#0e9bad"
 			}
 		},
 		{
@@ -284,7 +284,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#0db9cf"
+				"foreground": "#0e9bad"
 			}
 		},
 		{
@@ -329,7 +329,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#e4ab0d"
+				"foreground": "#c9960c"
 			}
 		},
 		{
@@ -339,7 +339,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#17b639"
+				"foreground": "#11a832"
 			}
 		},
 		{
@@ -351,7 +351,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f87e32"
+				"foreground": "#e26e26"
 			}
 		},
 		{
@@ -368,7 +368,7 @@
 				"function.support.core"
 			],
 			"settings": {
-				"foreground": "#62e980"
+				"foreground": "#50cf6c"
 			}
 		},
 		{
@@ -378,7 +378,7 @@
 				"entity.name.tag.class.js"
 			],
 			"settings": {
-				"foreground": "#e06c75"
+				"foreground": "#ca4a55"
 			}
 		},
 		{
@@ -388,7 +388,7 @@
 				"entity.name.tag.id"
 			],
 			"settings": {
-				"foreground": "#0db9cf"
+				"foreground": "#0e9bad"
 			}
 		},
 		{
@@ -402,7 +402,7 @@
 			"name": "Library constant",
 			"scope": "support.constant",
 			"settings": {
-				"foreground": "#56b6c2"
+				"foreground": "#0e9bad"
 			}
 		},
 		{
@@ -412,14 +412,14 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#56b6c2"
+				"foreground": "#0e9bad"
 			}
 		},
 		{
 			"name": "Json Property",
 			"scope": "support.dictionary.json",
 			"settings": {
-				"foreground": "#56b6c2"
+				"foreground": "#0e9bad"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 				"entity.other.attribute-name.pseudo-element.sass"
 			],
 			"settings": {
-				"foreground": "#56b6c2"
+				"foreground": "#0e9bad"
 			}
 		},
 		{
@@ -544,7 +544,7 @@
 			"name": "Link",
 			"scope": "string.detected-link",
 			"settings": {
-				"foreground": "#7bd88f"
+				"foreground": "#5bcc73"
 			}
 		},
 		{
