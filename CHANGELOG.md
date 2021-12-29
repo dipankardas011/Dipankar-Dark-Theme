@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## Latest Version
+- improved the Dark & Light theme
+    * more darker theme
+    * Fixed the Seletion Highlighter
+
 ## Ver 3.6.1
 ### Changed the icon and added contributing rules
 
