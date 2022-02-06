@@ -3,13 +3,12 @@
 By `Dipankar Das`
 
 ![cover Page](CoverPage.png)
-
 <hr>
+
+<a href="https://www.buymeacoffee.com/dipankar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=dipankar&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](YOUR_EMAIL_CODE)
-
 
 # SCREENSHOT
 ## Dark Theme
